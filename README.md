@@ -71,3 +71,11 @@ The dataset (`insurance.csv`) contains 1,338 rows and 7 columns:
 ```bash
 git clone https://github.com/geemethkuruppu/insurance-charges-prediction
 cd insurance-charges-prediction
+
+### 2. Install Dependencies
+```bash
+pip install -r requirements.txt
+
+### 3. Run the Code
+```bash
+python main.py
